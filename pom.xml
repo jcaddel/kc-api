@@ -33,8 +33,8 @@
     <url>http://${kuali.site.hostname}/coeus/coeus-api/${project.version}</url>
     <inceptionYear>2014</inceptionYear>
     <scm>
-        <connection>scm:git:git@github.com/kuali/kc-api.git</connection>
-        <developerConnection>scm:git:git@github.com/kuali/kc-api.git</developerConnection>
+        <connection>scm:git:git@github.com:kuali/kc-api.git</connection>
+        <developerConnection>scm:git:git@github.com:kuali/kc-api.git</developerConnection>
         <url>https://github.com/kuali/kc-api/tree/${project.scm.tag}</url>
         <tag>coeus-api-6.0.0</tag>
     </scm>
